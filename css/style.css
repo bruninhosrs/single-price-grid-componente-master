@@ -1,0 +1,140 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Karla", sans-serif;
+}
+body {
+  background-color: #e5eff5ff;
+}
+
+p {
+  font-size: 16px;
+}
+
+.price span {
+  color: #ccc;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.main {
+  max-height: 1200vh;
+  max-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.main .componente {
+  max-width: 700px;
+  max-height: 700px;
+  background-color: #fff;
+  /* margin: 120px 120px; */
+  margin: 100px auto;
+  overflow: hidden;
+  border-radius: 15px;
+}
+
+.main .componente .join-community {
+  margin: 30px 35px;
+}
+
+.main .componente .join-community h2 {
+  color: #2ab2afff;
+  font-weight: bold;
+  /* margin-bottom: 1rem; */
+  padding: 10px;
+  font-size: 1.7rem;
+}
+
+.main .componente .join-community h3 {
+  color: #c0df34ff;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.main .componente .join-community p {
+  color: #98a6bdff;
+  font-weight: bold;
+  padding-left: 10px;
+}
+
+.main .informations {
+  display: flex;
+}
+
+.main .componente .informations .subscription,
+.main .componente .informations .why-us {
+  color: #fff;
+  width: 50%;
+  padding: 30px 35px;
+}
+
+.main .componente .informations .subscription {
+  background-color: #2ab2afff;
+  border-bottom-left-radius: 15px;
+}
+
+.informations .subscription h2 {
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+}
+
+.subscription p {
+  margin-bottom: 1rem;
+}
+
+.price {
+  font-size: 2.1rem;
+  color: #fff;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.informations .subscription button {
+  background-color: #c0df34ff;
+  color: #fff;
+  font-weight: bold;
+  border: none;
+  width: 250px;
+  margin-top: 1rem;
+  padding: 15px 40px;
+  border-radius: 10px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.informations .subscription button:hover {
+  background-color: hsl(71, 73%, 48%);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.3);
+}
+
+.main .componente .informations .why-us {
+  background-color: #2ab2b0b9;
+  border-bottom-right-radius: 15px;
+}
+
+.informations .why-us h2 {
+  margin-bottom: 20px;
+}
+
+.informations .why-us p {
+  color: #cccc;
+  font-size: 2rem;
+}
+
+.why-us ul {
+  padding-left: 0;
+  list-style: none;
+}
+
+.why-us li {
+  font-size: 16px;
+  color: #e5eff5ff;
+  margin-bottom: 8px;
+}
+
+/* RESPONSIVIDADE  */
+@media (max-width: 768px) {
+}
