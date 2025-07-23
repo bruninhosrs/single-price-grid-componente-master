@@ -15,8 +15,8 @@ Os utilizadores devem ser capazes de:
 
 ### Deploy & Repositório
 
-- URL da solução: [Adicionar URL da solução aqui](https://your-solution-url.com)
-- URL do site em tempo real: [Adicionar URL do site ao vivo aqui](https://your-live-site-url.com)
+- GitHub: [Repositório GitHub](https://github.com/bruninhosrs/single-price-grid-componente-master)
+- Vercel (Deploy): [Vercel](https://single-price-grid-componente-master.vercel.app/)
 
 ## Meu processo
 
