@@ -1,8 +1,5 @@
 # Frontend Mentor - Solução de componente de grelha de preço único
 
-Esta é uma solução para o [Desafio do componente de grade de preço único no Frontend Mentor] (https://www.frontendmentor.io/challengessingle-price-grid-component-5ce41129d0ff452fec5abbbc). Os desafios do Frontend Mentor ajudam-no a melhorar as suas capacidades de codificação através da construção de projectos realistas.
-
-
 ## Visão geral
 
 ### O desafio
